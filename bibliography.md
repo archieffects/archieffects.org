@@ -5,3 +5,4 @@ Tafuri, Manfredo. 1987. *Sphere and the Labyrinth: Avant-Gardes and Architecture
 Koolhaas, Rem. 2014. “My thoughts on the smart city.” *European Commission* November 3.   (https://ec.europa.eu/commission_2010-2014/kroes/en/content/my-thoughts-smart-city-rem-koolhaas).  
 Bruner, Jon and Mike Loukides. 2015. *What is the Internet of Things?.* Sebastopol, CA: O'Reilly Media Inc.
 Wark, Mackenzie. 2014. "#Accelerate in Reverse." *Public Seminar Commons.* October 2. (http://www.publicseminar.org/2014/10/accelerate-in-reverse/#.VMAi0i7F9sA).
+Ito, Joi. 2015. "Why Bitcoin is and isn't like the Internet." *LinkedIn.* January 18. (https://www.linkedin.com/pulse/why-bitcoin-isnt-like-internet-joichi-ito).
